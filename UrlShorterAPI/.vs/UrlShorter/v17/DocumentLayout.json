@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brati\\source\\repos\\UrlShorter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "UrlShorter\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:07:53.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlController.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\UrlController.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Controllers\\UrlController.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\UrlController.cs",
+              "RelativeToolTip": "UrlShorter\\Controllers\\UrlController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwJEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:01:35.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UrlShorter\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:37:10.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

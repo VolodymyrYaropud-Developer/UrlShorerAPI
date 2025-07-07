@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brati\\source\\repos\\UrlShorter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1DDC3B-0FD3-409A-8DB5-FBF07ED7599C}|UrlShorter.Test\\UrlShorter.Test.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter.test\\urlcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1DDC3B-0FD3-409A-8DB5-FBF07ED7599C}|UrlShorter.Test\\UrlShorter.Test.csproj|solutionrelative:urlshorter.test\\urlcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\services\\urlshortensevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\services\\urlshortensevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1DDC3B-0FD3-409A-8DB5-FBF07ED7599C}|UrlShorter.Test\\UrlShorter.Test.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter.test\\aboutcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1DDC3B-0FD3-409A-8DB5-FBF07ED7599C}|UrlShorter.Test\\UrlShorter.Test.csproj|solutionrelative:urlshorter.test\\aboutcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1DDC3B-0FD3-409A-8DB5-FBF07ED7599C}|UrlShorter.Test\\UrlShorter.Test.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter.test\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1DDC3B-0FD3-409A-8DB5-FBF07ED7599C}|UrlShorter.Test\\UrlShorter.Test.csproj|solutionrelative:urlshorter.test\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\responses\\urlresponses\\newurlresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\responses\\urlresponses\\newurlresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\responses\\urlresponses\\allurlsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\responses\\urlresponses\\allurlsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\responses\\urlresponses\\getinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\responses\\urlresponses\\getinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\models\\urlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\models\\urlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\responses\\loginresponses\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\responses\\loginresponses\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\models\\aboutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\models\\aboutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1DDC3B-0FD3-409A-8DB5-FBF07ED7599C}|UrlShorter.Test\\UrlShorter.Test.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter.test\\mockets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1DDC3B-0FD3-409A-8DB5-FBF07ED7599C}|UrlShorter.Test\\UrlShorter.Test.csproj|solutionrelative:urlshorter.test\\mockets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\context\\urlshortdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\context\\urlshortdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\requests\\createshorturlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\requests\\createshorturlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\requests\\shortenurlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\requests\\shortenurlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\migrations\\20250706091359_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\migrations\\20250706091359_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|c:\\users\\brati\\source\\repos\\urlshorter\\urlshorter\\migrations\\20250707005646_addaboutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEC5779-EA54-4523-8CD2-AB86BC5C587F}|UrlShorter\\UrlShorter.csproj|solutionrelative:urlshorter\\migrations\\20250707005646_addaboutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "UrlShorter\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T00:54:08.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewUrlResponse.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Responses\\UrlResponses\\NewUrlResponse.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Responses\\UrlResponses\\NewUrlResponse.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Responses\\UrlResponses\\NewUrlResponse.cs",
+              "RelativeToolTip": "UrlShorter\\Responses\\UrlResponses\\NewUrlResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:44:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllUrlsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Responses\\UrlResponses\\AllUrlsResponse.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Responses\\UrlResponses\\AllUrlsResponse.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Responses\\UrlResponses\\AllUrlsResponse.cs",
+              "RelativeToolTip": "UrlShorter\\Responses\\UrlResponses\\AllUrlsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:26:45.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Responses\\LoginResponses\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Responses\\LoginResponses\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Responses\\LoginResponses\\LoginResponse.cs",
+              "RelativeToolTip": "UrlShorter\\Responses\\LoginResponses\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:22:39.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Program.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Program.cs",
+              "RelativeToolTip": "UrlShorter\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:20:08.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UrlShorter\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:37:10.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetInfoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Responses\\UrlResponses\\GetInfoResponse.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Responses\\UrlResponses\\GetInfoResponse.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Responses\\UrlResponses\\GetInfoResponse.cs",
+              "RelativeToolTip": "UrlShorter\\Responses\\UrlResponses\\GetInfoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:28:36.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 300,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter.Test\\UrlControllerTests.cs",
+              "RelativeDocumentMoniker": "UrlShorter.Test\\UrlControllerTests.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter.Test\\UrlControllerTests.cs",
+              "RelativeToolTip": "UrlShorter.Test\\UrlControllerTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAxwDMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:54:14.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter.Test\\AboutControllerTests.cs",
+              "RelativeDocumentMoniker": "UrlShorter.Test\\AboutControllerTests.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter.Test\\AboutControllerTests.cs",
+              "RelativeToolTip": "UrlShorter.Test\\AboutControllerTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:51:29.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Responses\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Responses\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Responses\\BaseResponse.cs",
+              "RelativeToolTip": "UrlShorter\\Responses\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:17:39.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrlController.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\UrlController.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Controllers\\UrlController.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Controllers\\UrlController.cs",
+              "RelativeToolTip": "UrlShorter\\Controllers\\UrlController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAuwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:37:23.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter.Test\\UnitTests.cs",
+              "RelativeDocumentMoniker": "UrlShorter.Test\\UnitTests.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter.Test\\UnitTests.cs",
+              "RelativeToolTip": "UrlShorter.Test\\UnitTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:35:35.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AboutModel.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Models\\AboutModel.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Models\\AboutModel.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Models\\AboutModel.cs",
+              "RelativeToolTip": "UrlShorter\\Models\\AboutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T00:55:29.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "URLModel.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Models\\URLModel.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Models\\URLModel.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Models\\URLModel.cs",
+              "RelativeToolTip": "UrlShorter\\Models\\URLModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:53:40.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mockets.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter.Test\\Mockets.cs",
+              "RelativeDocumentMoniker": "UrlShorter.Test\\Mockets.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter.Test\\Mockets.cs",
+              "RelativeToolTip": "UrlShorter.Test\\Mockets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:43:14.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShortenUrlRequest.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Requests\\ShortenUrlRequest.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Requests\\ShortenUrlRequest.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Requests\\ShortenUrlRequest.cs",
+              "RelativeToolTip": "UrlShorter\\Requests\\ShortenUrlRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:58:10.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UrlShortDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Context\\UrlShortDBContext.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Context\\UrlShortDBContext.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Context\\UrlShortDBContext.cs",
+              "RelativeToolTip": "UrlShorter\\Context\\UrlShortDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:54:51.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrlShortenSevice.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Services\\UrlShortenSevice.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Services\\UrlShortenSevice.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Services\\UrlShortenSevice.cs",
+              "RelativeToolTip": "UrlShorter\\Services\\UrlShortenSevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:32:51.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250707005646_AddAboutModel.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Migrations\\20250707005646_AddAboutModel.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Migrations\\20250707005646_AddAboutModel.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Migrations\\20250707005646_AddAboutModel.cs",
+              "RelativeToolTip": "UrlShorter\\Migrations\\20250707005646_AddAboutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T00:56:46.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UrlShorter\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UrlShorter\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T09:31:00.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250706091359_initialize.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Migrations\\20250706091359_initialize.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Migrations\\20250706091359_initialize.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Migrations\\20250706091359_initialize.cs",
+              "RelativeToolTip": "UrlShorter\\Migrations\\20250706091359_initialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:13:59.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateShortUrlRequest.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Requests\\CreateShortUrlRequest.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Requests\\CreateShortUrlRequest.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Requests\\CreateShortUrlRequest.cs",
+              "RelativeToolTip": "UrlShorter\\Requests\\CreateShortUrlRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T20:32:05.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Models\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Models\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Models\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "UrlShorter\\Models\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:15:15.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UrlShorter\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\brati\\source\\repos\\UrlShorter\\UrlShorter\\Models\\User.cs",
+              "RelativeToolTip": "UrlShorter\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:46:41.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
